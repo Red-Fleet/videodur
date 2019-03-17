@@ -1,6 +1,5 @@
 
 import os.path
-from moviepy.editor import VideoFileClip
 from subprocess import STDOUT 
  
 
