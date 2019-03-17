@@ -1,6 +1,6 @@
 
 import os.path
-from subprocess import STDOUT 
+from subprocess import check_output, STDOUT 
  
 
 
